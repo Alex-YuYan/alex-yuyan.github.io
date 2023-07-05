@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.a8076601.css",
-    "main.js": "./static/js/main.02c352b1.js",
-    "static/media/avatar.png": "./static/media/avatar.1329644c3144ea4b5177.png",
-    "static/media/Resume_2023.pdf": "./static/media/Resume_2023.80807ad5f8fcaef3b8bb.pdf",
-    "static/media/LI-In-Bug.png": "./static/media/LI-In-Bug.79d2ab3b7a854bee7977.png",
-    "index.html": "./index.html",
-    "static/media/email.svg": "./static/media/email.11c99d28fb37ac2dd6fdff0e0aedc047.svg",
-    "main.a8076601.css.map": "./static/css/main.a8076601.css.map",
-    "main.02c352b1.js.map": "./static/js/main.02c352b1.js.map"
+    "main.css": "/static/css/main.7a5a7206.css",
+    "main.js": "/static/js/main.ea730779.js",
+    "static/media/about.png": "/static/media/about.3d262df4df6618b7bf53.png",
+    "static/media/Resumate_Project.png": "/static/media/Resumate_Project.e8ce2a6b1a645520088c.png",
+    "static/media/SmileySans-Oblique.otf.woff2": "/static/media/SmileySans-Oblique.otf.ed44e74f1e928da0f034.woff2",
+    "static/media/Resume.pdf": "/static/media/Resume.f250ff27d0ec1f24426d.pdf",
+    "static/media/site-bg.jpg": "/static/media/site-bg.91d3a7dfe738ec94ba19.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.ab9747a7d911ebf4c11c4003019161b7.svg",
+    "static/media/logo.svg": "/static/media/logo.2d9652e3bed651db9ce6990e4ff0ed73.svg",
+    "index.html": "/index.html",
+    "main.7a5a7206.css.map": "/static/css/main.7a5a7206.css.map",
+    "main.ea730779.js.map": "/static/js/main.ea730779.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8076601.css",
-    "static/js/main.02c352b1.js"
+    "static/css/main.7a5a7206.css",
+    "static/js/main.ea730779.js"
   ]
 }
